@@ -3,6 +3,7 @@
 
 body {
 
+
 	padding: 0;
 	margin: 0 auto;
 	background-image: url("https://images.pexels.com/photos/72473/pexels-photo-72473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
@@ -13,7 +14,7 @@ body {
 
 
 h1 {
-	color: #94b533;
+	color: green;
 	text-transform: uppercase;
 	text-shadow: 2px 2px #ff0000;
 	font-family: 'Ubuntu', sans-serif;
